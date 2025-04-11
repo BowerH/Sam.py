@@ -44,6 +44,10 @@ python sam.py -i eg_data/sample.sam -o results/summary.txt -q 30
 
 This command processes sample.sam, filters alignments with a mapping quality of at least 30, and writes the summary to summary.txt.
 
+## Example Data
+
+An example SAM file is provided in the eg_data/ directory for testing and demonstration purposes.
+
 ## Output
 
 The script generates an output file containing:
